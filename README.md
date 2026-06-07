@@ -20,4 +20,4 @@
 ## 如何运行
 1. 安装依赖：`pip install pandas numpy matplotlib seaborn scikit-learn openpyxl`
 2. 下载数据集并放入同级目录
-3. 打开 `analysis.ipynb` 依次运行即可# rfm-ecommerce-analysis
+3. 打开 `analysis.ipynb` 依次运行即可
